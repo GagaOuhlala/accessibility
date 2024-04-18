@@ -65,6 +65,10 @@ footer div a:hover {
 }
 
 /* index.html */
+.articles {
+    text-align: center;
+}
+
 article {
     margin: 20px;
     padding: 20px;
@@ -79,7 +83,7 @@ article img {
     height: auto;
 }
 
-article h1 {
+article h2 {
     color: #333;
 }
 
